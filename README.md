@@ -1,5 +1,6 @@
 # unity_field_setter
-A simple field setter component for setting any field found on any component on a given game object
+A simple field setter component for setting any field found on any component on a given game object.
+Based on code from: https://github.com/fernandoramallo/oikospiel-tools
 
 ![](usage.gif)
 
