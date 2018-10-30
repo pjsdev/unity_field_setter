@@ -1,6 +1,8 @@
 # unity_field_setter
 A simple field setter component for setting any field found on any component on a given game object
 
+![](usage.gif)
+
 ## License
 This is free and unencumbered software released into the public domain.
 
